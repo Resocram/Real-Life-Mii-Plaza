@@ -1,3 +1,5 @@
+nwHacks 2020 Google Cloud first place winner!!!
+
 # Inspiration
 Approaching new people in events is really daunting and having some information beforehand (such as interests/pronouns) helps get the conversation started.
 
